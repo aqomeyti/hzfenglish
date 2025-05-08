@@ -1,1 +1,1 @@
-worker: python hzfenglishbot.py
+python hzfenglishbot.py
